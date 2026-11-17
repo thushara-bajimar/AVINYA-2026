@@ -33,3 +33,5 @@ data/uploads/
 *.sln
 *.sw?
 .env
+# Internal team docs (technical documentation + presentation guide) - not for the public repo
+docs/internal/
